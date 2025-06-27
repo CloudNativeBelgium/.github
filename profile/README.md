@@ -17,6 +17,8 @@ We foster an **open, welcoming environment**—regardless of background, age, ge
 | Name | Role | City |
 | ---- | ---- | ---- |
 | [Mauro Morales](http://github.com/mauromorales) | Founding Member | Ghent |
+| [Christopher Peeters](https://github.com/cpeetersburg) | Founding Member | Brussels |
+| [Jean-Philippe Evrard](https://github.com/evrardjp) | Founding Member | Brussels |
 
 We’ve been organizing the [CNCF Cloud Native Brussles](https://community.cncf.io/cloud-native-brussels/) and we see this space as the foundation for future growth.
 
