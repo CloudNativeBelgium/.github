@@ -13,28 +13,37 @@ We foster an **open, welcoming environment**—regardless of background, age, ge
 
 ## The different meetups!
 
-As the Cloud Native ecosystem continues to grow, multiple meetup groups have emerged across Belgium, each organizing local events and initiatives.
+As the Cloud Native ecosystem continues to grow, multiple meetup groups have emerged across Belgium, each organizing local events and initiatives. To reduce confusion and create synergies, we decided to collaborate across these groups and centralize shared resources, communication, and community efforts under Cloud Native Belgium.
 
-To reduce confusion and create synergies, we decided to collaborate across these groups and centralize shared resources, communication, and community efforts under Cloud Native Belgium.
+We are currently organized through two different channels, each with respecitive organisers.
 
-We organize two kinds of events:
-
-* The [Cloud Native Belgium](https://www.meetup.com/cloudnative-belgium/) meetups on meetup.com.
-* The Official [CNCF Cloud Native Brussels](https://community.cncf.io/cloud-native-brussels/) meetups.
+* The [CNCF Brussels Community events](https://community.cncf.io/cloud-native-brussels/).
+* The [Cloud Native Belgium meetups](https://www.meetup.com/cloudnative-belgium/).
 
 ## Contribute
 
-If you wish to help organise the official meetup, it's all happening in the [cncf-events repo](https://github.com/CloudNativeBelgium/cncf-events).
-If you wish to help organise on the meetup.com group, please have a look at [the meetup.com-events repo](https://github.com/CloudNativeBelgium/meetup.com-events)
+If you wish to help organise an official CNCF event, it's all happening in the [cncf-events repo](https://github.com/CloudNativeBelgium/cncf-events).
+If you wish to help organise a meetup, please have a look at [the meetup.com-events repo](https://github.com/CloudNativeBelgium/meetup.com-events)
 
 ## 👥 Who We Are
 
+* The [CNCF Brussels Community events](https://community.cncf.io/cloud-native-brussels/).
+
 | Name | Role | City |
 | ---- | ---- | ---- |
-| [Mauro Morales](http://github.com/mauromorales) | Founding Member, CNCF Meetup organizer | Ghent |
-| [Christopher Peeters](https://github.com/cpeetersburg) | Founding Member, CNCF Meetup organizer | Brussels |
-| [Jean-Philippe Evrard](https://github.com/evrardjp) | Founding Member, CNCF Meetup organizer | Vilvoorde |
-| [Pieter Lewyllie](https://github.com/plewyllie) | meetup.com organizer | _ |
+| [Mauro Morales](http://github.com/mauromorales) | CNCF Community organizer | Ghent |
+| [Christopher Peeters](https://github.com/cpeetersburg) | CNCF Community organizer | Brussels |
+| [Jean-Philippe Evrard](https://github.com/evrardjp) | CNCF Community organizer | Vilvoorde |
+
+* The [Cloud Native Belgium meetups](https://www.meetup.com/cloudnative-belgium/).
+
+| Name | Role | City |
+| ---- | ---- | ---- |
+| [Pieter Lewyllie](https://github.com/plewyllie) | Meetup.com organizer | Brussels |
+| [Cedric Verstraeten](https://github.com/cedricve) | Meetup.com organizer | Gent |
+| [Evelien Schellekens](https://github.com/EvelienSchellekens) | Meetup.com organizer | Brussels |
+| [Dieter Adant](https://github.com/dieteradant) | Meetup.com organizer | Brussels |
+
 
 You are welcome to join us and help us grow this community!
 
