@@ -1,50 +1,55 @@
 # 🌥️ Cloud Native Belgium 🇧🇪
 
-> Bringing people together for inspiration, collaboration, and fellowship.
+We're a neutral discovery layer for Cloud Native groups and individuals in Belgium. We help people find what already exists, understand what each group does, and connect through their own channels. We also enable lightweight collaboration and cross-promotion when it makes sense.
 
-We’re a community of enthusiasts, professionals, and newcomers passionate about the Cloud Native ecosystem.  
-From Kubernetes to containers, observability to edge—if it's part of the CNCF landscape, we're into it.
+## Neutrality & Autonomy
 
-## ✨ Our Mission
+- Listing a community here does not imply endorsement or representation.
+- Each community keeps full autonomy over its repos, branding, and messaging.
+- Cloud Native Belgium (this org) does not speak for groups; it only links to them.
 
-To connect people, companies, and technologies in Belgium through fun, inclusive, and hands-on experiences.
+## Groups
 
-We foster an **open, welcoming environment**—regardless of background, age, gender, or race.
+This is a simple index of communities with a short description and a link to their repo or website.
+Descriptions are maintained by each group; open an issue if you want to refine wording.
 
-## The different meetups!
+| Name | Description | Status | Details |
+| ---- | ----------- | ------ | ---- |
+| Cloud Native Brussels | Official CNCF chapter with activities across Belgium | Active | [cncf-community-brussels](https://github.com/CloudNativeBelgium/cncf-community-brussels/blob/main/README.md) |
+| Cloud Native Belgium (ex. Kubernetes Belgium) | TBD | Active | [meetup.com-events](https://github.com/CloudNativeBelgium/meetup.com-events) |
 
-As the Cloud Native ecosystem continues to grow, multiple meetup groups have emerged across Belgium, each organizing local events and initiatives.
+## Individuals
 
-To reduce confusion and create synergies, we decided to collaborate across these groups and centralize shared resources, communication, and community efforts under Cloud Native Belgium.
+Including individuals is a core part of the organization. We recognize speakers, organizers, contributors, and other active community members even if they are not part of a listed group. Individuals who are not affiliated with a specific community are encouraged to participate and can serve as neutral chairs.
 
-We organize two kinds of events:
+Open an issue using the listing request template if you want to be added.
 
-* The [Cloud Native Belgium](https://www.meetup.com/cloudnative-belgium/) meetups on meetup.com.
-* The Official [CNCF Cloud Native Brussels](https://community.cncf.io/cloud-native-brussels/) meetups.
+## Listing Format & Status
 
-## Contribute
+Required fields for groups: name, short description, status, link, and a contact channel.
 
-If you wish to help organise the official meetup, it's all happening in the [cncf-events repo](https://github.com/CloudNativeBelgium/cncf-events).
-If you wish to help organise on the meetup.com group, please have a look at [the meetup.com-events repo](https://github.com/CloudNativeBelgium/meetup.com-events)
+Status values:
+- Active: responsive within the last 60 days.
+- On hold: listed but not currently running activities (by request).
+- Inactive: no response after 60 days of outreach via listed contacts.
+
+## Governance
+
+This organization's governance model is described in detail [here](../GOVERNANCE.md).
 
 ## 👥 Who We Are
 
-| Name | Role | City |
-| ---- | ---- | ---- |
-| [Mauro Morales](http://github.com/mauromorales) | Founding Member, CNCF Meetup organizer | Ghent |
-| [Christopher Peeters](https://github.com/cpeetersburg) | Founding Member, CNCF Meetup organizer | Brussels |
-| [Jean-Philippe Evrard](https://github.com/evrardjp) | Founding Member, CNCF Meetup organizer | Vilvoorde |
-| [Pieter Lewyllie](https://github.com/plewyllie) | meetup.com organizer | _ |
+Maintainers (Cloud Native Belgium - this org):
 
-You are welcome to join us and help us grow this community!
+| Name | Role |
+| ---- | ---- |
+| [Mauro Morales](https://github.com/mauromorales) | Maintainer |
+| [Jean-Philippe Evrard](https://github.com/evrardjp) | Maintainer |
 
-## 📣 We are looking for
+## How to join?
 
-- 🗣 **Speakers** - Share your knowledge or practice your first talk in a welcoming community.
--	💼 **Sponsors** - Support the local tech scene and reach a passionate audience.
--	📍 **Venue partners** – Help us find cozy spaces across Belgium to gather and connect.
--	🤝 **Volunteers** – Whether it’s logistics or promotion, every helping hand makes a difference.
+Open an issue using the listing request template and we'll take it from there. See `CONTRIBUTING.md` for required fields.
 
 ## How to contact us?
 
-We are all on the CNCF Slack (#belgium) channel. On top of that, we are available on LinkedIn, meetup.com.
+We are all on the CNCF Slack (#belgium) channel and you can also send an [email](mailto:mauro@cloudnativedays.be)
