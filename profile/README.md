@@ -1,8 +1,16 @@
 # 🌥️ Cloud Native Belgium 🇧🇪
 
-We're an umbrella organization bringing together different cloud-native organizations in Belgium who want to work together and support eachother while staying independant. We believe this collaboration will help us produce better events and a stronger community.
+We're a neutral discovery layer for Cloud Native groups and individuals in Belgium. We help people find what already exists, understand what each group does, and connect through their own channels. We also enable lightweight collaboration and cross-promotion when it makes sense.
+
+## Neutrality & Autonomy
+
+- Listing a community here does not imply endorsement or representation.
+- Each community keeps full autonomy over its repos, branding, and messaging.
+- The umbrella does not speak for groups; it only links to them.
 
 ## Groups
+
+This is a simple index of communities with a short description and a link to their repo or website.
 
 TODO: add missing description
 
@@ -13,9 +21,11 @@ TODO: add missing description
 
 ## Governance
 
-This organization's governance model is described in detail [here](./GOVERNANCE.md)
+This organization's governance model is described in detail [here](../GOVERNANCE.md)
 
 ## 👥 Who We Are
+
+Including individuals is a core part of the organization. We recognize speakers, organizers, contributors, and other active community members even if they are not part of a listed group. Individuals who are not affiliated with a specific community are encouraged to participate and can serve as neutral chairs.
 
 ## How to join?
 
