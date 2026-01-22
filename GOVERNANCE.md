@@ -36,7 +36,7 @@ Roles exist at two scopes: Cloud Native Belgium (this org) and each individual g
 
 ## Shared Resources
 
-- Shared repos are opt-in and only created when multiple groups agree to collaborate.
+- Shared repos are opt-in and only created when two or more groups agree to collaborate.
 - Ownership and access are documented in the repo README.
 
 ## Changes to This Document
