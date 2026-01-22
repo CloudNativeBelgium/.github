@@ -8,7 +8,6 @@ labels: ["listing"]
 ## Type
 - [ ] Group
 - [ ] Individual
-- [ ] Update to existing listing
 
 ## Required fields
 - Name:
