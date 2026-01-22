@@ -16,7 +16,7 @@ Descriptions are maintained by each group; open an issue if you want to refine w
 | Name | Description | Status | Details |
 | ---- | ----------- | ------ | ---- |
 | Cloud Native Brussels | Official CNCF chapter with activities across Belgium | Active | [cncf-community-brussels](https://github.com/CloudNativeBelgium/cncf-community-brussels/blob/main/README.md) |
-| Cloud Native Belgium (ex. Kubernetes Belgium) | TBD | Active | [meetup.com-events](https://github.com/CloudNativeBelgium/meetup.com-events) |
+| Cloud Native Belgium (ex. Kubernetes Belgium) | Independent Cloud Native group in Belgium | Active | [meetup.com-events](https://github.com/CloudNativeBelgium/meetup.com-events) |
 
 ## Individuals
 
