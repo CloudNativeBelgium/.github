@@ -52,8 +52,4 @@ Open an issue using the listing request template and we'll take it from there. S
 
 ## How to contact us?
 
-You can reach us through any of these channels:
-
-- Open an [issue](https://github.com/CloudNativeBelgium/.github/issues) on this repo
-- Join us on the CNCF Slack #belgium channel
-- Send an [email](mailto:mauro@cloudnativedays.be)
+Open an [issue](https://github.com/CloudNativeBelgium/.github/issues) on this repo.
