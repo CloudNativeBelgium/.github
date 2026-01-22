@@ -5,6 +5,9 @@ title: "Listing: <name>"
 labels: ["listing"]
 ---
 
+## Prerequisites
+- [ ] I have read the [governance](../../GOVERNANCE.md)
+
 ## Type
 - [ ] Group
 - [ ] Individual
